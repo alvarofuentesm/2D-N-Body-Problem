@@ -1,9 +1,7 @@
 # 2D-N-Body-Problem
 N-body simulation using parallel programming in CUDA.
 
-Álvaro Fuentes
-Natalia Herrera
-Andrés Shehadeh
+Álvaro Fuentes - Natalia Herrera - Andrés Shehadeh
 
 ![](https://puu.sh/GBY5z/8b84c0047c.gif)
 
