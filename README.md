@@ -39,7 +39,7 @@ Google Colab y subir las carpeta /data y /gif
 
 - Los GIF generados se encuentran en la carpeta /gif
 
-Nota: No se genera un GIF para la implementación basada de Fast N-Body.
+Nota: No se genera un GIF para la implementación basada de Fast N-Body (aun no implementado). 
 Nota 2: Es posible generar un nuevo archivo input.txt con la celda Random Generator
 Nota 3: Los cuerpos representados en las imágenes/GIF son proporcionales a su masa, no su diamétro, pero en la simulación son 
 tratados como partículas puntuales que se pueden atravesar.  
